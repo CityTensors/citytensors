@@ -3,5 +3,12 @@
   number_link: 1
   link:
     url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934565&HistoricalAwards=false
-    display:  Award Abstract #1934565
+    display:  Award N0.1934565
+    
+- title: "BIGDATA: F: Collaborative Research: Foundations of Responsible Data Management"
+  authors: Bill Howe 
+  number_link: 1
+  link:
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740996
+    display:  Award N0.1740996
     
