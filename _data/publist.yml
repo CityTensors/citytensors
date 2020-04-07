@@ -17,6 +17,17 @@
     display:  SIGSPATIAL 2019 (short paper)
   highlight: 0
   news2:
+  
+  
+- title: "Fairness in Practice: A Survey on Equity in Urban Mobility"
+  image: fairst.png
+  description: This paper reviews the methods and findings of mobility equity studies, with a focus on new mobility.
+  authors: An Yan, Bill Howe
+  link:
+    url: http://sites.computer.org/debull/A19sept/A19SEPT-CD.pdf#page=51
+    display:  Data Engineering (September 2019)
+  highlight: 0
+  news2:
 
 
 # - title: "Direct evidence for flat bands in twisted bilayer graphene from nano-ARPES"
