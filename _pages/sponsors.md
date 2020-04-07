@@ -10,7 +10,7 @@ permalink: /sponsors/
 
 {% for sponsor in site.data.sponsors %}
 
-  {{ sponsor.title }} <br />
+  <b>{{ sponsor.title }} </b><br />
   <em>{{ sponsor.authors }} </em>
 
   {% if sponsor.number_link == 1 %}
