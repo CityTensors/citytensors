@@ -75,7 +75,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Collaborators
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.collaborators %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
