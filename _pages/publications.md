@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list).
+(For a full list see [below](#full-list)).
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
