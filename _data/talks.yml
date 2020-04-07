@@ -1,0 +1,24 @@
+- title: "TransFAT: Translating Fairness, Accountability and Transparency into Data Science Practice"
+  authors: Slides (Julia Stoyanovich)
+  number_link: 1
+  link:
+    url: https://dataresponsibly.github.io/documents/GA4GH.pdf
+    display:  Keynote at Global Aliance for Genomics & Health (GA4GH) 7th Plenary Meeting
+    
+
+- title: "A Technical Research Agenda in Data Ethics and Responsible Data Management"
+  authors: ACM SIGMOD 2018 special session
+  number_link: 4
+  link1:
+    url: https://dataresponsibly.github.io/documents/SIGMOD18_Julia.pdf
+    display:  Slides (Julia Stoyanovich)
+  link2:
+    url: https://dataresponsibly.github.io/documents/SIGMOD18_Alan.pdf
+    display:  Slides (Alan Mislove)
+  link3:
+    url: https://dataresponsibly.github.io/documents/SIGMOD18_Alex.pdf
+    display:  Slides (Alexandra Meliou)
+  link4:
+    url: https://dataresponsibly.github.io/documents/SIGMOD18_Bill.pdf
+    display:  Slides (Bill Howe)
+
