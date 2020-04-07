@@ -8,7 +8,7 @@ permalink: /
 
 We are a research group at the [DataLab](https://datalab.ischool.uw.edu/) at the [UW iSchool](https://ischool.uw.edu/). 
 
-
+<!--div class="carousel slide">
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -19,7 +19,9 @@ We are a research group at the [DataLab](https://datalab.ischool.uw.edu/) at the
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
+</div-->  
 
+<!--div class="left carousel-control">
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -28,7 +30,7 @@ We are a research group at the [DataLab](https://datalab.ischool.uw.edu/) at the
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>  <!-- /.carousel slide -->
+</div-->  
 
 
 
