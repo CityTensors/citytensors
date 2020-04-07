@@ -8,6 +8,16 @@
   highlight: 1
   news2:
 
+- title: "FairST: Equitable Spatial and Temporal Demand Prediction for New Mobility Systems"
+  image: fairst.png
+  description: We introduced FairST, a fairness-aware demand prediction model for spatiotemporal urban applications, with emphasis on new mobility.
+  authors: An Yan, Bill Howe
+  link:
+    url: https://dl.acm.org/doi/10.1145/3347146.3359380
+    display:  SIGSPATIAL 2019 (short paper)
+  highlight: 0
+  news2:
+
 
 # - title: "Direct evidence for flat bands in twisted bilayer graphene from nano-ARPES"
 #   image: TBG_ARPES.png
