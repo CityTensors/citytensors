@@ -1,7 +1,7 @@
 - name: Bill Howe
   photo: bill.png
   info: Associate professor, Information School, Univerisity of Washington. <a href="https://faculty.washington.edu/billhowe/">Website</a>
-#   email: milan.allan@gmail.com
+  email: billhowe@uw.edu
   number_educ: 5
   education1: Adjunct Associate Professor, Computer Science & Engineering
   education2: Adjunct Associate Professor, Electrical Engineering
@@ -12,8 +12,8 @@
 
 - name: An Yan
   photo: anyan.jpg
-  info: PhD candidate. <a href="https://ischool.uw.edu/people/phd/profile/yanan15">Website</a>
-#   email: ge@Physics.LeidenUniv.nl
+  info: PhD candidate. Information School, Univerisity of Washington. <a href="https://ischool.uw.edu/people/phd/profile/yanan15">Website</a>
+  email: yanan15@uw.edu
   number_educ: 2
   education1: M.S. Tsinghua University, China
   education2: B.E. Wuhan University, China
