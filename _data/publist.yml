@@ -1,6 +1,6 @@
 - title: "Fairness-Aware Demand Prediction for New Mobility"
   image: fairst.png
-  description: A first paper from the TBG collaboration is online, with beautiful data from the Baumberger group in Geneva, and great devices from the Efetov group at ICFO. We measured STM on the device.
+  description: We introduced FairST, a fairness-aware demand prediction model for spatiotemporal urban applications, with emphasis on new mobility.
   authors: An Yan, Bill Howe
   link:
     url: https://www.aaai.org/Papers/AAAI/2020GB/AAAI-YanA.9722.pdf
