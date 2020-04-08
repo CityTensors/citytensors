@@ -53,5 +53,5 @@ We are grateful for funding from [NSF](https://www.nsf.gov/) and collaborators f
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_nsf.png" style="width: 90px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UW.png" style="width: 90px; margin: 10px 10px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_datalab.png" style="width: 180px; margin: 10px 0px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_msr.jpg" style="width: 180px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ms.jpg" style="width: 180px">
 </figure>
