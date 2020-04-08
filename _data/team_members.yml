@@ -1,3 +1,11 @@
+- name: An Yan
+  photo: anyan.jpg
+  info: PhD candidate. Information School, Univerisity of Washington. <a href="https://ischool.uw.edu/people/phd/profile/yanan15">Website</a>
+  email: yanan15@uw.edu
+  number_educ: 2
+  education1: M.S. Tsinghua University, China
+  education2: B.E. Wuhan University, China
+
 - name: Bill Howe
   photo: bill.png
   info: Associate professor, Information School, Univerisity of Washington. <a href="https://faculty.washington.edu/billhowe/">Website</a>
@@ -8,13 +16,4 @@
   education3: Program Director and Faculty Chair, UW Data Science Masters Degree
   education4: Director, Urbanalytics Lab
   education5: Founding Associate Director and Senior Data Science Fellow, UW eScience Institute
-
-
-- name: An Yan
-  photo: anyan.jpg
-  info: PhD candidate. Information School, Univerisity of Washington. <a href="https://ischool.uw.edu/people/phd/profile/yanan15">Website</a>
-  email: yanan15@uw.edu
-  number_educ: 2
-  education1: M.S. Tsinghua University, China
-  education2: B.E. Wuhan University, China
 
