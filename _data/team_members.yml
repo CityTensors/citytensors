@@ -1,14 +1,14 @@
-- name: An Yan
+- name: <a href="https://ischool.uw.edu/people/phd/profile/yanan15">An Yan</a>
   photo: anyan.jpg
-  info: PhD candidate. Information School, Univerisity of Washington. <a href="https://ischool.uw.edu/people/phd/profile/yanan15">Website</a>
+  info: PhD candidate. Information School, Univerisity of Washington.
   email: yanan15@uw.edu
   number_educ: 2
   education1: M.S. Tsinghua University, China
   education2: B.E. Wuhan University, China
 
-- name: Bill Howe
+- name: <a href="https://faculty.washington.edu/billhowe/">Bill Howe</a>
   photo: bill.png
-  info: Associate professor, Information School, Univerisity of Washington. <a href="https://faculty.washington.edu/billhowe/">Website</a>
+  info: Associate professor, Information School, Univerisity of Washington. 
   email: billhowe@uw.edu
   number_educ: 5
   education1: Adjunct Associate Professor, Computer Science & Engineering
