@@ -12,6 +12,13 @@
     url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934464&HistoricalAwards=false
     display:  Award N0.1934464
     
+- title: "Collaborative Research: Framework for Integrative Data Equity Systems"
+  authors: Bill Howe (Principal Investigator)
+  number_link: 1
+  link:
+    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934405&HistoricalAwards=false
+    display:  Award N0.1934405
+    
 - title: "BIGDATA: F: Collaborative Research: Foundations of Responsible Data Management"
   authors: Bill Howe 
   number_link: 1
@@ -20,7 +27,6 @@
     display:  Award N0.1740996
     
 
-    
 - title: "Workshop on Foundations of Responsible Data Science (FoRDS)"
   authors: Bill Howe (Principal Investigator), danah boyd (Co-Principal Investigator)
   number_link: 1
