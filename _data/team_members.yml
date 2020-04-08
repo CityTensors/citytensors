@@ -1,19 +1,19 @@
 - name: <a href="https://ischool.uw.edu/people/phd/profile/yanan15">An Yan</a>
   photo: anyan.jpg
-  info: PhD candidate. Information School, Univerisity of Washington.
+  info: <a href="https://www.washington.edu">University of Washington</a>
   email: yanan15@uw.edu
   number_educ: 2
-  education1: M.S. Tsinghua University, China
-  education2: B.E. Wuhan University, China
+  education1: PhD Candidate, <a href="https://ischool.uw.edu/">Information School</a>
+
 
 - name: <a href="https://faculty.washington.edu/billhowe/">Bill Howe</a>
   photo: bill.png
-  info: Associate professor, Information School, Univerisity of Washington. 
+  info: <a href="https://www.washington.edu">University of Washington</a>
   email: billhowe@uw.edu
   number_educ: 5
-  education1: Adjunct Associate Professor, Computer Science & Engineering
-  education2: Adjunct Associate Professor, Electrical Engineering
-  education3: Program Director and Faculty Chair, UW Data Science Masters Degree
+  education1: Associate Professor, <a href="https://ischool.uw.edu/">Information School</a>
+  education2: Adjunct Associate Professor, Computer Science & Engineering
+  education3: Adjunct Associate Professor, Electrical Engineering
   education4: Director, Urbanalytics Lab
   education5: Founding Associate Director and Senior Data Science Fellow, UW eScience Institute
 
