@@ -46,7 +46,7 @@ We are located at Leiden University, the birthplace of superconductivity and hom
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**  -->
 
 
-We are grateful for funding from [NSF](https://www.nsf.gov/) and collaborators from [UW DataLab](https://datalab.ischool.uw.edu/) and [Microsoft Research](https://www.microsoft.com/en-us/research/). 
+We are grateful for funding from [NSF](https://www.nsf.gov/) and collaborators from [UW DataLab](https://datalab.ischool.uw.edu/) and [Microsoft](https://www.microsoft.com/en-us/). 
 
 
 <figure class="fourth">
